@@ -10,4 +10,3 @@ Executive in FAR&D @ MSN R&D CENTER
 - Performed data collection and reporting of data
 ### Projects
 Solubility enhancement of ketoconazole by microemulgel technique
-Established IVIVC of rivaroxaban in laboratory
